@@ -18,7 +18,6 @@ Model evaluation with accuracy, classification report & confusion matrix
 
 Saves model and scaler for real-world prediction use
 
-Easy integration into apps (e.g. your UENR Student Services app)
 
 📈 Model Performance
 -
