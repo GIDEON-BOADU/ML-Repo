@@ -51,6 +51,7 @@ It leverages the **Random Forest Classifier** for high accuracy and is built usi
 
 
 7. 🧠 Author
+   ```
       Gideon Boadu
       Undergraduate Student, BSc Computer Engineering
       University of Energy and Natural Resources (UENR),Ghana
