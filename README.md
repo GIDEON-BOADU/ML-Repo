@@ -48,3 +48,10 @@ source venv/bin/activate   # or venv\Scripts\activate on Windows
    python train.py
    ```
 5. Use ```predict.py``` to test new inputs.
+
+
+7. 🧠 Author
+      ## Gideon Boadu
+      ```
+      Undergraduate Student, BSc Computer Engineering
+      University of Energy and Natural Resources (UENR),Ghana
