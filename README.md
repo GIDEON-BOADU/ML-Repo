@@ -35,10 +35,10 @@ It leverages the **Random Forest Classifier** for high accuracy and is built usi
    git clone https://github.com/GIDEON-BOADU/ML-Repo.git
    ```
 2. Create and activate a virtual environment
-  ```bash
-python -m venv venv
-source venv/bin/activate   # or venv\Scripts\activate on Windows
-```
+   ```bash
+   python -m venv venv
+   source venv/bin/activate   # or venv\Scripts\activate on Windows
+   ```
 3. Install dependencies
    ```bash
    pip install -r requirements.txt
@@ -50,8 +50,9 @@ source venv/bin/activate   # or venv\Scripts\activate on Windows
 5. Use ```predict.py``` to test new inputs.
 
 
-7. 🧠 Author
-      ## Gideon Boadu
+7.## 🧠 Author
       ```
+      ## Gideon Boadu
       Undergraduate Student, BSc Computer Engineering
       University of Energy and Natural Resources (UENR),Ghana
+      ```
